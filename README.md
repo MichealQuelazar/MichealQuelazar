@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=michealquelazar&label=Profile%20views&color=0e75b6&style=flat" alt="michealquelazar" /> </p>
 
+- 🌱 I’m currently learning **Exploring LangChain, Supabase, and Google Gemini APIs. Deepening my skills in TypeScript, Next.js, and vector search with Pinecone.**
+
 - 👨‍💻 most of my projects are available at [https://michael-quelazar-portfolio.netlify.app/](https://michael-quelazar-portfolio.netlify.app/)
 
 - 💬 Ask me about **Open to AI/ML collaborations, web development projects, and open-source contributions. Always happy to chat about product ideas or research experiments.**
@@ -13,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/micheal quelazar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="micheal quelazar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/michael quelazar g ." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael quelazar g ." height="30" width="40" /></a>
+<a href="https://dev.to/micheal_quelazar_bd7163e2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="micheal_quelazar_bd7163e2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/michael-quelazar-g-b22609319/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michael-quelazar-g-b22609319/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
