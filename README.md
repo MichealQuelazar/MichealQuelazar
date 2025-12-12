@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **quelazar23@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1r7WqoM3UN0_ufGUx9WezbQOae686LVVg/view](https://drive.google.com/file/d/1r7WqoM3UN0_ufGUx9WezbQOae686LVVg/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1xmdPYLo7uOwWxK3qePsiVMOii7Qd7hYy/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
